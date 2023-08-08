@@ -1,7 +1,5 @@
 # 👋Hello everyone-
-I’m Pablo Alzogaray, front-end development,
-Constantly expanding my capabilities for product 
-Improvement and optimization
+I'm Pablo, a front-end developer, and sometimes you'll see me tinkering with other technologies, constantly expanding my capabilities to improve and optimize the final products.
 
 *last card obtained
 

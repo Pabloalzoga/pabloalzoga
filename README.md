@@ -1,9 +1,7 @@
 # 👋Hello everyone-
-<div style="background: red">
 I’m Pablo Alzogaray, front-end development,
 Constantly expanding my capabilities for product 
 Improvement and optimization
-</div>
 
 *last card obtained
 
